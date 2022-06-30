@@ -1,2 +1,2 @@
-tvbox配置文件，配置文件的网络地址
+https://gitee.com/knight111222/tvbox/raw/master/1.json
  
